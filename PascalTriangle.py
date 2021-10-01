@@ -11,4 +11,4 @@ for i in range(n):
     print("   "*(n-i),end=" ",sep=" ")
     for j in range(0,i+1):
         print('{0:6}'.format(a[i][j]),end=" ",sep=" ")
-    print()
+    print("\n")
