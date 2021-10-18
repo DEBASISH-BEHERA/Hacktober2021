@@ -32,7 +32,7 @@ Quicksort(A,q+1,r);
 void main()
 {
     int A[30],i,n;
-    printf("Enter Size:");
+    printf("Enter Size of array:");
     scanf("%d",&n);
     printf("Enter Elements:");
     for(i=0;i<n;i++)
